@@ -3,13 +3,10 @@
 # RUBY ON RAILS PROJECT: BUILDING WITH ACTIVE RECORD
 
 We were asked to create a clone of reddit using ruby on rails's active record.
-![Screenshot from 2021-04-19 10-55-52](https://user-images.githubusercontent.com/56790126/115210106-919c2980-a0fe-11eb-965b-c7d9c8c51a0c.png)
-![scree2](https://user-images.githubusercontent.com/56790126/115210146-9d87eb80-a0fe-11eb-85f6-71340f1e6bd0.png)
+![Screenshot from 2021-04-19 11-19-20](https://user-images.githubusercontent.com/56790126/115214695-11c48e00-a103-11eb-885a-97e6fbc04ea2.png)
 ![Screenshot from 2021-04-19 11-00-02](https://user-images.githubusercontent.com/56790126/115210189-a678bd00-a0fe-11eb-959c-538c2db0c25e.png)
+![Screenshot from 2021-04-19 11-29-58](https://user-images.githubusercontent.com/56790126/115214450-d033e300-a102-11eb-9d8c-37c49c5a2e1d.png)
 
-
-## Live Demo
-The application can be found here https://damp-garden-38836.herokuapp.com/articles/
 
 ## Built With
 - Ruby
