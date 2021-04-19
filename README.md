@@ -2,7 +2,7 @@
 
 # RUBY ON RAILS PROJECT: BUILDING WITH ACTIVE RECORD
 
-We were asked to create a blog application using ruby on rails.
+We were asked to create a clone of reddit using ruby on rails's active record.
 
 
 ## Live Demo
