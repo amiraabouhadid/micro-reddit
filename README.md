@@ -3,6 +3,9 @@
 # RUBY ON RAILS PROJECT: BUILDING WITH ACTIVE RECORD
 
 We were asked to create a clone of reddit using ruby on rails's active record.
+![Screenshot from 2021-04-19 10-55-52](https://user-images.githubusercontent.com/56790126/115210106-919c2980-a0fe-11eb-965b-c7d9c8c51a0c.png)
+![scree2](https://user-images.githubusercontent.com/56790126/115210146-9d87eb80-a0fe-11eb-85f6-71340f1e6bd0.png)
+![Screenshot from 2021-04-19 11-00-02](https://user-images.githubusercontent.com/56790126/115210189-a678bd00-a0fe-11eb-959c-538c2db0c25e.png)
 
 
 ## Live Demo
